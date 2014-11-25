@@ -1,0 +1,5 @@
+E:\360data\重要数据\桌面\MouseKeyboardLib2008\MouseKeyboardLibrary\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLibrary.dll
+E:\360data\重要数据\桌面\MouseKeyboardLib2008\MouseKeyboardLibrary\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLibrary.pdb
+E:\360data\重要数据\桌面\MouseKeyboardLib2008\MouseKeyboardLibrary\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.csprojResolveAssemblyReference.cache
+E:\360data\重要数据\桌面\MouseKeyboardLib2008\MouseKeyboardLibrary\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.dll
+E:\360data\重要数据\桌面\MouseKeyboardLib2008\MouseKeyboardLibrary\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.pdb

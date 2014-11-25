@@ -1,0 +1,10 @@
+E:\360data\重要数据\桌面\MouseKeyboardLib2008\MouseKeyboardLibrary\SampleApplication\bin\Debug\SampleApplication.exe
+E:\360data\重要数据\桌面\MouseKeyboardLib2008\MouseKeyboardLibrary\SampleApplication\bin\Debug\SampleApplication.pdb
+E:\360data\重要数据\桌面\MouseKeyboardLib2008\MouseKeyboardLibrary\SampleApplication\bin\Debug\MouseKeyboardLibrary.dll
+E:\360data\重要数据\桌面\MouseKeyboardLib2008\MouseKeyboardLibrary\SampleApplication\bin\Debug\MouseKeyboardLibrary.pdb
+E:\360data\重要数据\桌面\MouseKeyboardLib2008\MouseKeyboardLibrary\SampleApplication\obj\Debug\HookSampleApplication.csprojResolveAssemblyReference.cache
+E:\360data\重要数据\桌面\MouseKeyboardLib2008\MouseKeyboardLibrary\SampleApplication\obj\Debug\SampleApplication.Properties.Resources.resources
+E:\360data\重要数据\桌面\MouseKeyboardLib2008\MouseKeyboardLibrary\SampleApplication\obj\Debug\SampleApplication.HookTestForm.resources
+E:\360data\重要数据\桌面\MouseKeyboardLib2008\MouseKeyboardLibrary\SampleApplication\obj\Debug\HookSampleApplication.csproj.GenerateResource.Cache
+E:\360data\重要数据\桌面\MouseKeyboardLib2008\MouseKeyboardLibrary\SampleApplication\obj\Debug\SampleApplication.exe
+E:\360data\重要数据\桌面\MouseKeyboardLib2008\MouseKeyboardLibrary\SampleApplication\obj\Debug\SampleApplication.pdb

@@ -1,0 +1,10 @@
+E:\360data\重要数据\桌面\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\bin\Debug\GlobalMacroRecorder.exe
+E:\360data\重要数据\桌面\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\bin\Debug\GlobalMacroRecorder.pdb
+E:\360data\重要数据\桌面\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\bin\Debug\MouseKeyboardLibrary.dll
+E:\360data\重要数据\桌面\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\bin\Debug\MouseKeyboardLibrary.pdb
+E:\360data\重要数据\桌面\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.csprojResolveAssemblyReference.cache
+E:\360data\重要数据\桌面\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.MacroForm.resources
+E:\360data\重要数据\桌面\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.Properties.Resources.resources
+E:\360data\重要数据\桌面\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.csproj.GenerateResource.Cache
+E:\360data\重要数据\桌面\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.exe
+E:\360data\重要数据\桌面\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.pdb
